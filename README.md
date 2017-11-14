@@ -60,3 +60,8 @@ The [STS](https://sites.google.com/site/strategictestsuite) run with depth set t
 ---
 
 [![Build Status](https://travis-ci.org/phaul/chess.png?branch=master)](https://travis-ci.org/phaul/chess)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Filikebits%2Fchess.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Filikebits%2Fchess?ref=badge_shield)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Filikebits%2Fchess.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Filikebits%2Fchess?ref=badge_large)
